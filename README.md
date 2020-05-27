@@ -1,6 +1,6 @@
 # EasyConvert
 
-This repository contains the work of our Windows, Mac, Linux & Android application, Easy Convert. The app was a collaborative project built with Ali (aahmad4 on GitHub), Nico (nico-jimene on Github), and Aakash (aakosk on Github).
+This repository contains the work of our Windows, Mac, Linux & Android application, Easy Convert. The app was a collaborative project built with Ali (aahmad4 on GitHub), Nico (nico-jimene on Github), Aakash (aakosk on Github), and Taha Saleh.
 I was responsible for the app design, debugging, and android apk-building process.
 
 ![](convert1.PNG)
