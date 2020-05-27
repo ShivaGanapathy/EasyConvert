@@ -1,6 +1,8 @@
 # EasyConvert
 
-This repository contains the work of our Windows, Mac, Linux & Android application, Easy Convert. The app was a collaborative project built with aahmad4 (on GitHub). The app is an easy to use, unique, and local means of converting datatypes. The app was built with kivy and python. 
+This repository contains the work of our Windows, Mac, Linux & Android application, Easy Convert. The app was a collaborative project built with Ali (aahmad4 on GitHub), Nico (nico-jimene on Github), and Aakash (aakosk on Github).
+I was responsible for the app design, debugging, and android apk-building process.
+
 ![](convert1.PNG)
 ![](convert2.PNG)
 # How To Use The App
